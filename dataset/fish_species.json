@@ -1,0 +1,770 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Hilsa",
+            "hi": "इलिश",
+            "mr": "हिलसा",
+            "ta": "உல்லம்",
+            "te": "పులస",
+            "bn": "ইলিশ",
+            "ml": "ഇലിഷ"
+        },
+        "scientificName": "Tenualosa ilisha",
+        "description": {
+            "en": "The Hilsa is a popular food fish in South Asia.",
+            "hi": "हिल्सा दक्षिण एशिया में एक लोकप्रिय खाद्य मछली है।",
+            "mr": "हिल्सा ही दक्षिण आशियातील एक लोकप्रिय अन्न मासा आहे।",
+            "ta": "இலிசா தெற்காசியாவில் பிரபலமான உணவு மீன்.",
+            "te": "హిల్సా దక్షిణాసియాలో ప్రసిద్ధ ఆహార చేప.",
+            "bn": "ইলিশ দক্ষিণ এশিয়ার একটি জনপ্রিয় খাদ্য মাছ।",
+            "ml": "ഇലിഷ ദക്ഷിണേഷ്യയിലെ ഒരു പ്രശസ്ത ഭക്ഷ്യ മത്സ്യമാണ്."
+        },
+        "habitat": {
+            "en": "Found in rivers and coastal waters.",
+            "hi": "नदियों और तटीय जल में पाई जाती है।",
+            "mr": "नद्या आणि किनारी पाण्यात आढळते।",
+            "ta": "ஆறுகள் மற்றும் கடலோர நீரில் காணப்படுகிறது.",
+            "te": "నదులు మరియు తీర జలాల్లో కనిపిస్తుంది.",
+            "bn": "নদী এবং উপকূলীয় জলে পাওয়া যায়।",
+            "ml": "ഇന്ത്യൻ മഹാസമുദ്രത്തിലെ തീരദേശ ജലം."
+        },
+        "category": "Brackish"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Pomfret",
+            "hi": "पोमफ्रेट",
+            "mr": "पापलेट",
+            "ta": "வவ்வால்",
+            "te": "చంద్రమ",
+            "bn": "পমফ্রেট",
+            "ml": "ആവോലി"
+        },
+        "scientificName": "Pampus argenteus",
+        "description": {
+            "en": "Silver Pomfret is a highly valued food fish.",
+            "hi": "सिल्वर पोमफ्रेट एक मूल्यवान खाद्य मछली है।",
+            "mr": "चांदी पापलेट एक मौल्यवान मासा आहे।",
+            "ta": "வெள்ளி வவ்வால் மதிப்புமிக்க உணவு மீன்.",
+            "te": "వెండి చంద్రమ విలువైన ఆహార చేప.",
+            "bn": "সিলভার পমফ্রেট একটি মূল্যবান মাছ।",
+            "ml": "വെള്ളി ആവോലി വിലപ്പെട്ട മത്സ്യമാണ്."
+        },
+        "habitat": {
+            "en": "Indo-Pacific region.",
+            "hi": "हिंद-प्रशांत क्षेत्र।",
+            "mr": "हिंद-प्रशांत प्रदेश।",
+            "ta": "இந்தோ-பசிபிக் பகுதி.",
+            "te": "ఇండో-పసిఫిక్ ప్రాంతం.",
+            "bn": "ইন্দো-প্যাসিফিক অঞ্চল।",
+            "ml": "ഇൻഡോ-പസഫിക് മേഖല."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Mackerel",
+            "hi": "बंगड़ा",
+            "mr": "बांगडा",
+            "ta": "காஞ்சல்",
+            "te": "అయల",
+            "bn": "ম্যাকরেল",
+            "ml": "അയല"
+        },
+        "scientificName": "Rastrelliger kanagurta",
+        "description": {
+            "en": "Indian Mackerel is a common food fish.",
+            "hi": "भारतीय बंगड़ा एक आम मछली है।",
+            "mr": "भारतीय बांगडा एक सामान्य मासा आहे।",
+            "ta": "இந்திய காஞ்சல் பொதுவான மீன்.",
+            "te": "భారతీయ అయల సాధారణ చేప.",
+            "bn": "ভারতীয় ম্যাকরেল একটি সাধারণ মাছ।",
+            "ml": "ഇന്ത്യൻ അയല സാധാരണ മത്സ്യമാണ്."
+        },
+        "habitat": {
+            "en": "Coastal waters of Indian Ocean.",
+            "hi": "हिंद महासागर के तटीय जल।",
+            "mr": "हिंद महासागराचे किनारी पाणी।",
+            "ta": "இந்திய பெருங்கடலின் கடலோর நீர்.",
+            "te": "హిందూ మహాസముద్రം తీര జలాలు.",
+            "bn": "ভারত মহাসাগরের উপকূলীয় জল।",
+            "ml": "ഇന്ത്യൻ മഹാസമുദ്രത്തിലെ തീരദേശ ജലം."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Rohu",
+            "hi": "रोहू",
+            "mr": "रोहू",
+            "ta": "ரோகு",
+            "te": "రోహు",
+            "bn": "রুই",
+            "ml": "രോഹു"
+        },
+        "scientificName": "Labeo rohita",
+        "description": {
+            "en": "Rohu is a major carp species in rivers.",
+            "hi": "रोहू नदियों में पाई जाने वाली एक प्रमुख कार्प प्रजाति है।",
+            "mr": "रोहू नद्यांमध्ये आढळणारी प्रमुख कार्प प्रजाती आहे।",
+            "ta": "ரோகு ஆறுகளில் காணப்படும் முக்கிய கெண்டை மீன் இனமாகும்.",
+            "te": "రోహు నదులలో కనిపించే ప్రధాన కార్ప్ జాతి.",
+            "bn": "রুই নদীগুলির একটি প্রধান কার্প প্রজাতি।",
+            "ml": "നദികളിൽ കാണപ്പെടുന്ന പ്രധാന കാർപ്പ് ഇനമാണ് രോഹു."
+        },
+        "habitat": {
+            "en": "Freshwater rivers and ponds.",
+            "hi": "मीठे पानी की नदियां and तालाब।",
+            "mr": "गोड्या पाण्यातील नद्या आणि तलाव।",
+            "ta": "நன்னீர் ஆறுகள் மற்றும் குளங்கள்.",
+            "te": "మంచినీటి నదులు మరియు చెరువులు.",
+            "bn": "মিষ্টি জলের নদী এবং পুকুর।",
+            "ml": "ശുദ്ധജല നദികളും കുളങ്ങളും."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Catla",
+            "hi": "कतला",
+            "mr": "कटला",
+            "ta": "கட்லா",
+            "te": "బొచ్చె",
+            "bn": "কাতলা",
+            "ml": "കട്‌ല"
+        },
+        "scientificName": "Labeo catla",
+        "description": {
+            "en": "Catla is a fast-growing Indian major carp.",
+            "hi": "कतला एक तेजी से बढ़ने वाली भारतीय प्रमुख कार्प है।",
+            "mr": "कटला वेगाने वाढणारी भारतीय प्रमुख कार्प आहे।",
+            "ta": "கட்லா வேகமாக வளரும் இந்திய முக்கிய கெண்டை மீன்.",
+            "te": "బొచ్చె వేగంగా పెరుగుతున్న ప్రధాన భారతీయ కార్ప్.",
+            "bn": "কাতলা একটি দ্রুত বর্ধনশীল ভারতীয় প্রধান কার্প।",
+            "ml": "വേഗത്തിൽ വളരുന്ന ഇന്ത്യൻ കാർപ്പ് ഇനമാണ് കട്‌ല."
+        },
+        "habitat": {
+            "en": "Rivers and lakes of South Asia.",
+            "hi": "दक्षिण एशिया की नदियां और झीलें।",
+            "mr": "दक्षिण आशियातील नद्या आणि सरोवरे।",
+            "ta": "தெற்காசியாவின் ஆறுகள் மற்றும் ஏரிகள்.",
+            "te": "దక్షిణాసియా నదులు మరియు సరస్సులు.",
+            "bn": "দক্ষিণ এশিয়ার নদী ও হ্রদ।",
+            "ml": "ദക്ഷിണേഷ്യയിലെ നദികളും തടാകങ്ങളും."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Mrigal",
+            "hi": "मृगल",
+            "mr": "मृगल",
+            "ta": "மிர்கல்",
+            "te": "మృగల్",
+            "bn": "মৃগেল",
+            "ml": "മൃഗൽ"
+        },
+        "scientificName": "Cirrhinus cirrhosus",
+        "description": {
+            "en": "Mrigal is a popular food fish, bottom feeder.",
+            "hi": "मृगल एक लोकप्रिय खाद्य मछली है।",
+            "mr": "मृगल एक लोकप्रिय खाद्य मासा आहे।",
+            "ta": "Mrigal is a popular food fish.",
+            "te": "Mrigal is a popular food fish.",
+            "bn": "Mrigal is a popular food fish.",
+            "ml": "Mrigal is a popular food fish."
+        },
+        "habitat": {
+            "en": "Rivers and ponds.",
+            "hi": "नदियां और तालाब।",
+            "mr": "नद्या आणि तलाव।",
+            "ta": "Rivers and ponds.",
+            "te": "Rivers and ponds.",
+            "bn": "Rivers and ponds.",
+            "ml": "Rivers and ponds."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Tilapia",
+            "hi": "तिलापिया",
+            "mr": "तिलापिया",
+            "ta": "திலேபியா",
+            "te": "తిలాపియా",
+            "bn": "তেলাপিয়া",
+            "ml": "തിലാപ്പിയ"
+        },
+        "scientificName": "Oreochromis niloticus",
+        "description": {
+            "en": "Tilapia is a common freshwater fish.",
+            "hi": "तिलापिया एक आम मीठे पानी की मछली है।",
+            "mr": "तिलापिया एक सामान्य गोड्या पाण्यातील मासा आहे।",
+            "ta": "Tilapia is a common freshwater fish.",
+            "te": "Tilapia is a common freshwater fish.",
+            "bn": "Tilapia is a common freshwater fish.",
+            "ml": "Tilapia is a common freshwater fish."
+        },
+        "habitat": {
+            "en": "Ponds and lakes.",
+            "hi": "तालाब और झीलें।",
+            "mr": "तलाव आणि सरोവരെ।",
+            "ta": "Ponds and lakes.",
+            "te": "Ponds and lakes.",
+            "bn": "Ponds and lakes.",
+            "ml": "Ponds and lakes."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Common Carp",
+            "hi": "कॉमन कार्प",
+            "mr": "कॉमन कार्प",
+            "ta": "கெண்டை",
+            "te": "బంగారు తీగ",
+            "bn": "কমন কার্প",
+            "ml": "കരിമീൻ"
+        },
+        "scientificName": "Cyprinus carpio",
+        "description": {
+            "en": "Common Carp is a widespread freshwater fish.",
+            "hi": "कॉमन कार्प एक व्यापक मीठे पानी की मछली है।",
+            "mr": "कॉमन कार्प एक व्यापक गोड्या पाण्यातील मासा आहे।",
+            "ta": "Common Carp is a widespread freshwater fish.",
+            "te": "Common Carp is a widespread freshwater fish.",
+            "bn": "Common Carp is a widespread freshwater fish.",
+            "ml": "Common Carp is a widespread freshwater fish."
+        },
+        "habitat": {
+            "en": "Lakes and slow rivers.",
+            "hi": "झीलें और धीमी नदियां।",
+            "mr": "सरोवरे आणि संथ नद्या।",
+            "ta": "Lakes and slow rivers.",
+            "te": "Lakes and slow rivers.",
+            "bn": "Lakes and slow rivers.",
+            "ml": "Lakes and slow rivers."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Grass Carp",
+            "hi": "ग्रास कार्प",
+            "mr": "ग्रास कार्प",
+            "ta": "புல் கெண்டை",
+            "te": "గడ్డి చేప",
+            "bn": "গ্রাস কার্প",
+            "ml": "ഗ്രാസ് കാർപ്പ്"
+        },
+        "scientificName": "Ctenopharyngodon idella",
+        "description": {
+            "en": "Grass Carp is a large herbivorous fish.",
+            "hi": "ग्रास कार्प एक बड़ी शाकाहारी मछली है।",
+            "mr": "ग्रास कार्प एक मोठी शाकाहारी मासा आहे।",
+            "ta": "Grass Carp is a large herbivorous fish.",
+            "te": "Grass Carp is a large herbivorous fish.",
+            "bn": "Grass Carp is a large herbivorous fish.",
+            "ml": "Grass Carp is a large herbivorous fish."
+        },
+        "habitat": {
+            "en": "Vegetated lakes and rivers.",
+            "hi": "वनस्पति युक्त झीलें और नदियां।",
+            "mr": "वनस्पती युक्त सरोवरे आणि नद्या।",
+            "ta": "Vegetated lakes and rivers.",
+            "te": "Vegetated lakes and rivers.",
+            "bn": "Vegetated lakes and rivers.",
+            "ml": "Vegetated lakes and rivers."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Silver Carp",
+            "hi": "सिल्वर कार्प",
+            "mr": "सिल्वर कार्प",
+            "ta": "வெள்ளி கெண்டை",
+            "te": "వెండి చేప",
+            "bn": "সিলভার কার্প",
+            "ml": "സിൽവർ കാർപ്പ്"
+        },
+        "scientificName": "Hypophthalmichthys molitrix",
+        "description": {
+            "en": "Silver Carp is a filter-feeding fish.",
+            "hi": "सिल्वर कार्प एक फिल्टर-फीडिंग मछली है।",
+            "mr": "सिल्वर कार्प एक फिल्टर-फीडिंग मासा आहे।",
+            "ta": "Silver Carp is a filter-feeding fish.",
+            "te": "Silver Carp is a filter-feeding fish.",
+            "bn": "Silver Carp is a filter-feeding fish.",
+            "ml": "Silver Carp is a filter-feeding fish."
+        },
+        "habitat": {
+            "en": "Large rivers and lakes.",
+            "hi": "बड़ी नदियां और झीलें।",
+            "mr": "मोठ्या नद्या आणि सरोवरे।",
+            "ta": "Large rivers and lakes.",
+            "te": "Large rivers and lakes.",
+            "bn": "Large rivers and lakes.",
+            "ml": "Large rivers and lakes."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 11,
+        "name": {
+            "en": "Catfish",
+            "hi": "कैटफ़िश (मगुर)",
+            "mr": "मगुर",
+            "ta": "கెలிறு",
+            "te": "జెల్ల",
+            "bn": "মাগুর",
+            "ml": "മുഷി"
+        },
+        "scientificName": "Clariidae",
+        "description": {
+            "en": "Catfish are known for their barbels.",
+            "hi": "कैटफ़िश अपने मूंछों के लिए जानी जाती है।",
+            "mr": "कैटफ़िश त्याच्या मिशांसाठी ओळखली जाते।",
+            "ta": "Catfish are known for their barbels.",
+            "te": "Catfish are known for their barbels.",
+            "bn": "Catfish are known for their barbels.",
+            "ml": "Catfish are known for their barbels."
+        },
+        "habitat": {
+            "en": "Muddy rivers and ponds.",
+            "hi": "कीचड़ वाली नदियां और तालाब।",
+            "mr": "गाळलेल्या नद्या आणि तलाव।",
+            "ta": "Muddy rivers and ponds.",
+            "te": "Muddy rivers and ponds.",
+            "bn": "Muddy rivers and ponds.",
+            "ml": "Muddy rivers and ponds."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 12,
+        "name": {
+            "en": "Murrel",
+            "hi": "मुररेल (साँल)",
+            "mr": "मुरळ",
+            "ta": "விரால்",
+            "te": "కొర్రమీను",
+            "bn": "শোল",
+            "ml": "വരാൽ"
+        },
+        "scientificName": "Channa striata",
+        "description": {
+            "en": "Murrel is a predatory snakehead fish.",
+            "hi": "मुररेल एक शिकारी स्नेकहेड मछली है।",
+            "mr": "मुरळ एक शिकारी स्नेकहेड मासा आहे।",
+            "ta": "Murrel is a predatory snakehead fish.",
+            "te": "Murrel is a predatory snakehead fish.",
+            "bn": "Murrel is a predatory snakehead fish.",
+            "ml": "Murrel is a predatory snakehead fish."
+        },
+        "habitat": {
+            "en": "Swamps and slow rivers.",
+            "hi": "दलदल और धीमी नदियां।",
+            "mr": "दलदल आणि संथ नद्या।",
+            "ta": "Swamps and slow rivers.",
+            "te": "Swamps and slow rivers.",
+            "bn": "Swamps and slow rivers.",
+            "ml": "Swamps and slow rivers."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 13,
+        "name": {
+            "en": "Tuna",
+            "hi": "टूना",
+            "mr": "टूना",
+            "ta": "சூரை",
+            "te": "తూర",
+            "bn": "টুনা",
+            "ml": "ചൂര"
+        },
+        "scientificName": "Thunnini",
+        "description": {
+            "en": "Tuna is a saltwater fish belonging to the mackerel family.",
+            "hi": "टूना एक खारे पानी की मछली है।",
+            "mr": "टूना एक खाऱ्या पाण्यातील मासा आहे।",
+            "ta": "Tuna is a saltwater fish.",
+            "te": "Tuna is a saltwater fish.",
+            "bn": "Tuna is a saltwater fish.",
+            "ml": "Tuna is a saltwater fish."
+        },
+        "habitat": {
+            "en": "Open ocean.",
+            "hi": "खुला महासागर।",
+            "mr": "खुला महासागर।",
+            "ta": "Open ocean.",
+            "te": "Open ocean.",
+            "bn": "Open ocean.",
+            "ml": "Open ocean."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 14,
+        "name": {
+            "en": "Sardine",
+            "hi": "सार्डिन",
+            "mr": "तरली",
+            "ta": "மத்தி",
+            "te": "కవళ్ళు",
+            "bn": "সার্ডিন",
+            "ml": "മത്തി"
+        },
+        "scientificName": "Sardina pilchardus",
+        "description": {
+            "en": "Sardines are small, oily, nutrient-rich fish.",
+            "hi": "सार्डिन छोटी, तैलीय, पोषक तत्वों से भरपूर मछली है।",
+            "mr": "सार्डिन लहान, तेलकट, पोषक तत्वांनी युक्त मासा आहे।",
+            "ta": "Sardines are small, oily fish.",
+            "te": "Sardines are small, oily fish.",
+            "bn": "Sardines are small, oily fish.",
+            "ml": "Sardines are small, oily fish."
+        },
+        "habitat": {
+            "en": "Coastal pelagic zone.",
+            "hi": "तटीय पेलाजिक क्षेत्र।",
+            "mr": "किनारी पेलाजिक क्षेत्र।",
+            "ta": "Coastal pelagic zone.",
+            "te": "Coastal pelagic zone.",
+            "bn": "Coastal pelagic zone.",
+            "ml": "Coastal pelagic zone."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 15,
+        "name": {
+            "en": "King Fish",
+            "hi": "सुरमई",
+            "mr": "सुरमई",
+            "ta": "வஞ்சிரம்",
+            "te": "వంజరం",
+            "bn": "পমফ্রেট",
+            "ml": "നെയ്‌മീൻ"
+        },
+        "scientificName": "Scomberomorus commerson",
+        "description": {
+            "en": "King Fish is a popular delicacy.",
+            "hi": "सुरमई एक लोकप्रिय व्यंजन है।",
+            "mr": "सुरमई एक लोकप्रिय डिश आहे।",
+            "ta": "King Fish is a popular delicacy.",
+            "te": "King Fish is a popular delicacy.",
+            "bn": "King Fish is a popular delicacy.",
+            "ml": "King Fish is a popular delicacy."
+        },
+        "habitat": {
+            "en": "Coastal waters.",
+            "hi": "तटीय जल।",
+            "mr": "किनारी पाणी।",
+            "ta": "Coastal waters.",
+            "te": "Coastal waters.",
+            "bn": "Coastal waters.",
+            "ml": "Coastal waters."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 16,
+        "name": {
+            "en": "Red Snapper",
+            "hi": "रेड स्नैपर",
+            "mr": "तांबसा",
+            "ta": "சங்கரா",
+            "te": "ఎర్ర మట్ట",
+            "bn": "রাঙ্গা কৈ",
+            "ml": "പഹരി"
+        },
+        "scientificName": "Lutjanu campechanus",
+        "description": {
+            "en": "Red Snapper is known for its red skin and white meat.",
+            "hi": "रेड स्नैपर अपनी लाल त्वचा के लिए जाना जाता है।",
+            "mr": "रेड स्नैपर त्याच्या लाल त्वचेसाठी ओळखला जातो।",
+            "ta": "Red Snapper is known for its red skin.",
+            "te": "Red Snapper is known for its red skin.",
+            "bn": "Red Snapper is known for its red skin.",
+            "ml": "Red Snapper is known for its red skin."
+        },
+        "habitat": {
+            "en": "Reefs and rocky bottoms.",
+            "hi": "चट्टानें और पथरीले तल।",
+            "mr": "खडक आणि खडकाळ तळ।",
+            "ta": "Reefs and rocky bottoms.",
+            "te": "Reefs and rocky bottoms.",
+            "bn": "Reefs and rocky bottoms.",
+            "ml": "Reefs and rocky bottoms."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 17,
+        "name": {
+            "en": "Barracuda",
+            "hi": "बैराकुडा",
+            "mr": "शिलाव",
+            "ta": "ஊழி",
+            "te": "కొరమీను",
+            "bn": "ব্যারাকুডা",
+            "ml": "തിരാ"
+        },
+        "scientificName": "Sphyraena",
+        "description": {
+            "en": "Barracuda is a large, predatory ray-finned fish.",
+            "hi": "बैराकुडा एक बड़ी शिकारी मछली है।",
+            "mr": "बैराकुडा एक मोठा शिकारी मासा आहे।",
+            "ta": "Barracuda is a large predatory fish.",
+            "te": "Barracuda is a large predatory fish.",
+            "bn": "Barracuda is a large predatory fish.",
+            "ml": "Barracuda is a large predatory fish."
+        },
+        "habitat": {
+            "en": "Tropical and subtropical oceans.",
+            "hi": "उष्णकटिबंधीय महासागर।",
+            "mr": "उष्णकटिबंधीय महासागर।",
+            "ta": "Tropical oceans.",
+            "te": "Tropical oceans.",
+            "bn": "Tropical oceans.",
+            "ml": "Tropical oceans."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 18,
+        "name": {
+            "en": "Grouper",
+            "hi": "ग्रूपर",
+            "mr": "गोबरा",
+            "ta": "கலவா",
+            "te": "బోంత",
+            "bn": "ভেউলা",
+            "ml": "കലവ"
+        },
+        "scientificName": "Epinephelinae",
+        "description": {
+            "en": "Groupers are stout-bodied teleost fishes.",
+            "hi": "ग्रूपर मजबूत शरीर वाली मछलियां हैं।",
+            "mr": "ग्रूपर मजबूत शरीर वाले मासे आहेत।",
+            "ta": "Groupers are stout-bodied fishes.",
+            "te": "Groupers are stout-bodied fishes.",
+            "bn": "Groupers are stout-bodied fishes.",
+            "ml": "Groupers are stout-bodied fishes."
+        },
+        "habitat": {
+            "en": "Coral reefs.",
+            "hi": "मूंगा चट्टानें।",
+            "mr": "प्रवाळ खडक।",
+            "ta": "Coral reefs.",
+            "te": "Coral reefs.",
+            "bn": "Coral reefs.",
+            "ml": "Coral reefs."
+        },
+        "category": "Saltwater"
+    },
+    {
+        "id": 19,
+        "name": {
+            "en": "Goldfish",
+            "hi": "गोल्डफिश",
+            "mr": "सुवर्णमासा",
+            "ta": "தங்க மீன்",
+            "te": "బంగారు చేప",
+            "bn": "গোল্ডফিশ",
+            "ml": "സ്വർണ്ണ മത്സ്യം"
+        },
+        "scientificName": "Carassius auratus",
+        "description": {
+            "en": "Goldfish is a freshwater fish in the family Cyprinidae.",
+            "hi": "गोल्डफिश साइप्रिनिडे परिवार की एक मछली है।",
+            "mr": "गोल्डफिश साइप्रिनिडे कुटुंबातील एक मासा आहे।",
+            "ta": "Goldfish is a freshwater fish.",
+            "te": "Goldfish is a freshwater fish.",
+            "bn": "Goldfish is a freshwater fish.",
+            "ml": "Goldfish is a freshwater fish."
+        },
+        "habitat": {
+            "en": "Freshwater aquariums.",
+            "hi": "मीठे पानी के एक्वैरियम।",
+            "mr": "गोड्या पाण्याचे एक्वैरियम।",
+            "ta": "Freshwater aquariums.",
+            "te": "Freshwater aquariums.",
+            "bn": "Freshwater aquariums.",
+            "ml": "Freshwater aquariums."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 20,
+        "name": {
+            "en": "Guppy",
+            "hi": "गप्पी",
+            "mr": "गप्पी",
+            "ta": "கப்பி",
+            "te": "గుప్పి",
+            "bn": "গাপ্পি",
+            "ml": "ഗപ്പി"
+        },
+        "scientificName": "Poecilia reticulata",
+        "description": {
+            "en": "Guppy is one of the most widely distributed tropical fish.",
+            "hi": "गप्पी सबसे व्यापक रूप से वितरित उष्णकटिबंधीय मछली है।",
+            "mr": "गप्पी सर्वात व्यापक उष्णकटिबंधीय मासा आहे।",
+            "ta": "Guppy is a popular tropical fish.",
+            "te": "Guppy is a popular tropical fish.",
+            "bn": "Guppy is a popular tropical fish.",
+            "ml": "Guppy is a popular tropical fish."
+        },
+        "habitat": {
+            "en": "Freshwater streams and aquariums.",
+            "hi": "नदियां और एक्वैरियम।",
+            "mr": "नद्या आणि एक्वैरियम।",
+            "ta": "Freshwater streams.",
+            "te": "Freshwater streams.",
+            "bn": "Freshwater streams.",
+            "ml": "Freshwater streams."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 21,
+        "name": {
+            "en": "Betta (Fighter Fish)",
+            "hi": "बेटा मछली",
+            "mr": "बेटा मासा",
+            "ta": "சண்டை மீன்",
+            "te": "బెట్టా",
+            "bn": "ফাইটার ফিশ",
+            "ml": "ഫൈറ്റർ ഫിഷ്"
+        },
+        "scientificName": "Betta splendens",
+        "description": {
+            "en": "Siamese fighting fish are known for their brilliant colors.",
+            "hi": "सियामी लड़ाकू मछली अपने रंगों के लिए जानी जाती है।",
+            "mr": "सियामी लढाऊ मासा त्याच्या रंगांसाठी ओळखला जातो।",
+            "ta": "Known for brilliant colors.",
+            "te": "Known for brilliant colors.",
+            "bn": "Known for brilliant colors.",
+            "ml": "Known for brilliant colors."
+        },
+        "habitat": {
+            "en": "Paddy fields and aquariums.",
+            "hi": "धान के खेत और एक्वैरियम।",
+            "mr": "भातशेती और एक्वैरियम।",
+            "ta": "Paddy fields.",
+            "te": "Paddy fields.",
+            "bn": "Paddy fields.",
+            "ml": "Paddy fields."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 22,
+        "name": {
+            "en": "Angelfish",
+            "hi": "एंजेलफिश",
+            "mr": "एंजेलफिश",
+            "ta": "ಏಂಜೆಲ್ ಮೀನು",
+            "te": "ఏంజెల్ ఫిష్",
+            "bn": "অ্যাঞ্জেলফিশ",
+            "ml": "ഏഞ്ചൽ ഫിഷ്"
+        },
+        "scientificName": "Pterophyllum",
+        "description": {
+            "en": "Freshwater angelfish are cichlids known for their unique shape.",
+            "hi": "एंजेलफिश अपने अनोखे आकार के लिए जानी जाती है।",
+            "mr": "एंजेलफिश त्याच्या अनन्य आकारासाठी ओळखली जाते।",
+            "ta": "Known for unique shape.",
+            "te": "Known for unique shape.",
+            "bn": "Known for unique shape.",
+            "ml": "Known for unique shape."
+        },
+        "habitat": {
+            "en": "Tropical rivers and aquariums.",
+            "hi": "उष्णकटिबंधीय नदियां।",
+            "mr": "उष्णकटिबंधीय नद्या।",
+            "ta": "Tropical rivers.",
+            "te": "Tropical rivers.",
+            "bn": "Tropical rivers.",
+            "ml": "Tropical rivers."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 23,
+        "name": {
+            "en": "Neon Tetra",
+            "hi": "नियोन टेट्रा",
+            "mr": "नियोन टेट्रा",
+            "ta": "நியான்",
+            "te": "నియాన్",
+            "bn": "নিয়ন টেট্রা",
+            "ml": "നിയോൺ"
+        },
+        "scientificName": "Paracheirodon innesi",
+        "description": {
+            "en": "The neon tetra is a small freshwater fish.",
+            "hi": "नियोन टेट्रा एक छोटी मछली है।",
+            "mr": "नियोन टेट्रा एक लहान मासा आहे।",
+            "ta": "Small freshwater fish.",
+            "te": "Small freshwater fish.",
+            "bn": "Small freshwater fish.",
+            "ml": "Small freshwater fish."
+        },
+        "habitat": {
+            "en": "Blackwater streams and aquariums.",
+            "hi": "काली नदियां और एक्वैरियम।",
+            "mr": "काळ्या नद्या आणि एक्वैरियम।",
+            "ta": "Blackwater streams.",
+            "te": "Blackwater streams.",
+            "bn": "Blackwater streams.",
+            "ml": "Blackwater streams."
+        },
+        "category": "Freshwater"
+    },
+    {
+        "id": 24,
+        "name": {
+            "en": "Oscar",
+            "hi": "ऑस्कर",
+            "mr": "ऑस्कर",
+            "ta": "ஆஸ்கார்",
+            "te": "ఆస్కార్",
+            "bn": "অস্কার",
+            "ml": "ഓസ്കാർ"
+        },
+        "scientificName": "Astronotus ocellatus",
+        "description": {
+            "en": "Oscar is a species of fish from the cichlid family.",
+            "hi": "ऑस्कर सिचलिड परिवार की एक मछली है।",
+            "mr": "ऑस्कर सिचलिड कुटुंबातील एक मासा आहे।",
+            "ta": "Species of cichlid.",
+            "te": "Species of cichlid.",
+            "bn": "Species of cichlid.",
+            "ml": "Species of cichlid."
+        },
+        "habitat": {
+            "en": "Slow-moving rivers and aquariums.",
+            "hi": "धीमी नदियां और एक्वैरियम।",
+            "mr": "संथ नद्या आणि एक्वैरियम।",
+            "ta": "Slow rivers.",
+            "te": "Slow rivers.",
+            "bn": "Slow rivers.",
+            "ml": "Slow rivers."
+        },
+        "category": "Freshwater"
+    }
+]
